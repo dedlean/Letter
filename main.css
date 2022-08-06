@@ -1,0 +1,16 @@
+body {
+	font-family: serif;
+	max-width: 800px;
+  	margin: 0 auto;
+	padding: 0;
+	color: #000;
+}
+
+.sender-column {
+	display: block;
+	text-align: right;
+}
+
+.dark-link {
+	color: #000;
+}
